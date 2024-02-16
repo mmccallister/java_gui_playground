@@ -14,8 +14,17 @@ public class TeamPanel extends JPanel {
         memberLabels[0] = new JLabel("Sample", new ImageIcon("smile.png"), SwingConstants.CENTER);
         memberLabels[0].setHorizontalTextPosition(SwingConstants.CENTER);
         memberLabels[0].setVerticalTextPosition(SwingConstants.BOTTOM);
+<<<<<<< Updated upstream
         memberLabels[1] = new JLabel();
         memberLabels[2] = new JLabel();
+=======
+        memberLabels[2] = new JLabel("Seth Label", new ImageIcon("download.jpg"), SwingConstants.CENTER);
+        memberLabels[2].setHorizontalTextPosition(SwingConstants.CENTER);
+        memberLabels[2].setVerticalTextPosition(SwingConstants.BOTTOM);
+        memberLabels[1] = new JLabel("Matt Label", new ImageIcon("fantic.png"), SwingConstants.CENTER);
+        memberLabels[1].setHorizontalTextPosition(SwingConstants.CENTER);
+        memberLabels[1].setVerticalTextPosition(SwingConstants.BOTTOM);
+>>>>>>> Stashed changes
 
 
 
