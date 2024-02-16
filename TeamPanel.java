@@ -24,6 +24,9 @@ public class TeamPanel extends JPanel {
         memberLabels[1] = new JLabel("Matt Label", new ImageIcon("fantic.png"), SwingConstants.CENTER);
         memberLabels[1].setHorizontalTextPosition(SwingConstants.CENTER);
         memberLabels[1].setVerticalTextPosition(SwingConstants.BOTTOM);
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 
